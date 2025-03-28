@@ -4,7 +4,6 @@ public class Contact {
     private final String name;
     private final String phone;
     private final String email;
-
     //Constructor
     public Contact(String name, String phone, String email) {
         this.name = name;

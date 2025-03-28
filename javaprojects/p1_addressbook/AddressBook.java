@@ -9,7 +9,6 @@ public class AddressBook {
         ArrayList<Contact> contacts = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
         int choice;
-
         do { 
             System.out.println("\nAddress Book Menu:");
             System.out.println("1. Add Contact");
